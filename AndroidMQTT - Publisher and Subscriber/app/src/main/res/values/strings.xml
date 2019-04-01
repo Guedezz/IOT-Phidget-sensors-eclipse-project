@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MQTT Demo</string>
+
+    <string-array name="doors">
+        <item>001</item>
+        <item>002</item>
+        <item>003</item>
+        <item>c205</item>
+        <item>e127</item>
+    </string-array>
+</resources>
